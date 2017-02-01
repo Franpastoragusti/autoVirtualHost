@@ -9,4 +9,4 @@ sh auto.sh
 ```shell
 sh provisioner.sh
 ```
-####Añade en tu archivo host los nuevos dominios
+####AÃ±ade en tu archivo host los nuevos dominios
