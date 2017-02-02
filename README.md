@@ -8,7 +8,7 @@ sudo apt-get install git
 
 ##Proceso
 ####Clonate el repositorio en cualquier sitio (preferiblemente tu home)
-*https://github.com/Franpastoragusti/autoVirtualHost.git
+[https://github.com/Franpastoragusti/autoVirtualHost.git]
 ####Ejecuta el auto.sh
 ```shell
 sh auto.sh
