@@ -1,4 +1,12 @@
 # Autogenerador de Entornos Virtuales
+##Requerimientos
+* Sistema Unix
+* Tener instalado git
+```shell
+sudo apt-get install git
+```
+
+##Proceso
 ####Clonate el repositorio en cualquier sitio (preferiblemente tu home)
 ####Ejecuta el auto.sh
 ```shell
